@@ -1,0 +1,1 @@
+var txt="";for(var i=0;i<localStorage.length;i++){if(localStorage.key(i).indexOf(document.URL.split('/')[7])>-1){txt+=localStorage.key(i)+"<br>";}}document.body.innerHTML=txt;

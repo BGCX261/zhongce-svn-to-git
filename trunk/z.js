@@ -1,0 +1,1 @@
+document.getElementById("img_show_id14").getElementsByTagName("img")[0].click();document.getElementById("next_eva").click()
